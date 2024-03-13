@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: crimson;
+}
+.header{
+  align-items: center;
+}
+.img{
+  align-items: center;
+}
+.navbar{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: burlywood;
+}
+p{
+  align-items: center;
+}
+#details{
+  float: left;
+  
+}
